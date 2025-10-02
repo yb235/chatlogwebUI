@@ -212,6 +212,14 @@ npm run dev
 4. 推送到分支：`git push origin feature/amazing-feature`
 5. 提交 Pull Request
 
+### 📖 协作指南
+
+对 GitHub 协作有疑问？查看 [GitHub 协作常见问题](GITHUB_FAQ.md) 了解：
+- 协作者 vs 关注者的区别
+- 如何邀请和管理协作者
+- Watch、Star 的使用方法
+- 权限级别说明
+
 ## 📄 许可证
 
 本项目采用 [MIT](LICENSE) 许可证。
